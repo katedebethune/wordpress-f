@@ -1,0 +1,2 @@
+#ignore wp-config - contains dbase access info
+wp-config.php
